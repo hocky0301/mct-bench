@@ -1,0 +1,26 @@
+name: benchmark-harness
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+jobs:
+  test:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-24.04, macos-14]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: python -m pip install pip==25.0.1
+      - run: python -m pip install -r requirements.txt
+      - run: python -m pip check
+      - run: python -m pytest -m 'not assets' -q
+      - run: python -m mct_bench prepare --cache .cache/mct-bench
+      - run: python -m pytest -m assets -q
+        env:
+          MCT_BENCH_CACHE: .cache/mct-bench

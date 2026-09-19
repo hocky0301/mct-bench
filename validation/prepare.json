@@ -1,0 +1,48 @@
+{
+  "time_utc": "2026-09-14T23:25:36.109873+00:00",
+  "online_command": "python -m mct_bench prepare --cache ../../work/fresh-cache",
+  "online_exit_code": 0,
+  "offline_command": "python -m mct_bench prepare --cache ../../work/fresh-cache --offline",
+  "offline_exit_code": 0,
+  "online_offline_output_identical": true,
+  "asset_count": 7,
+  "total_bytes": 35474653,
+  "assets": {
+    "model_onnx": {
+      "bytes": 4590949,
+      "sha256": "ffd6a80ac5471de3e0d210d78fb09566513b35af0fa4eae286d71d952af3bb4c",
+      "matches": true
+    },
+    "train_images": {
+      "bytes": 26421880,
+      "sha256": "3aede38d61863908ad78613f6a32ed271626dd12800ba2636569512369268a84",
+      "matches": true
+    },
+    "train_labels": {
+      "bytes": 29515,
+      "sha256": "a04f17134ac03560a47e3764e11b92fc97de4d1bfaf8ba1a3aa29af54cc90845",
+      "matches": true
+    },
+    "test_images": {
+      "bytes": 4422102,
+      "sha256": "346e55b948d973a97e58d2351dde16a484bd415d4595297633bb08f03db6a073",
+      "matches": true
+    },
+    "test_labels": {
+      "bytes": 5148,
+      "sha256": "67da17c76eaffca5446c3361aaab5c3cd6d1c2608764d35dfb1850b086bf8dd5",
+      "matches": true
+    },
+    "dataset_license": {
+      "bytes": 1109,
+      "sha256": "13ef4788476d292858fa60eb9a5f74aeca5c65770bc885ccaa05823a17ef7be1",
+      "matches": true
+    },
+    "model_card": {
+      "bytes": 3950,
+      "sha256": "c441146a010d2c0246051b1c7cea416c0f2e16d3dd0f42caf96f411e368fdae7",
+      "matches": true
+    }
+  },
+  "README_license_review": "Pass: dataset MIT, model MIT explicitly attributed to pinned model-card metadata; absence of separate model LICENSE is documented; standard MIT terms labeled separately from publisher-provided file."
+}

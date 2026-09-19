@@ -1,0 +1,12 @@
+{
+  "renderer": "zenn-markdown-html@0.5.4",
+  "published": false,
+  "tables": 5,
+  "headings": 8,
+  "links": 32,
+  "codeBlocks": 12,
+  "mermaidSourcePreserved": true,
+  "mermaidSvgRendered": false,
+  "bodyMatchesEditor": true,
+  "sourceCharacters": 10884
+}

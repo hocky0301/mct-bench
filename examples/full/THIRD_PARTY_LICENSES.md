@@ -1,0 +1,18 @@
+# Data, pretrained model and toolkit licenses
+
+Checked against the publisher sources on 2026-09-15. Assets are pinned by revision, byte size and SHA-256 in `mct_bench/assets_manifest.json`. Downloads are verified before use. The benchmark does not train a replacement model or download an ImageNet dataset/model.
+
+| Material | Publisher / exact asset | License | Commercial use / redistribution | Primary evidence / obligations |
+| --- | --- | --- | --- | --- |
+| Dataset | Zalando SE, Fashion-MNIST train images/labels and test images/labels; revision `b2617bb6d3ffa2e429640350f613e3291e10b141` | MIT | Permitted under MIT | [Publisher license](https://github.com/zalandoresearch/fashion-mnist/blob/b2617bb6d3ffa2e429640350f613e3291e10b141/LICENSE); retain the original copyright and permission notice, included in `licenses/Fashion-MNIST.LICENSE`. |
+| Pretrained weights | tsilva, `fashionmnist-classifier-cnn/model.onnx`; revision `8b068e4063f2b03ea91651b0fa5877550616d6ae` | MIT, declared by the publisher in model-card metadata（モデルカードの宣言を一次情報として採用、要一次確認） | Permitted under the declared MIT license | [Pinned publisher model card](https://huggingface.co/tsilva/fashionmnist-classifier-cnn/blob/8b068e4063f2b03ea91651b0fa5877550616d6ae/README.md), preserved in `licenses/tsilva-model-card.md`. Preserve this declaration and the MIT terms in `licenses/tsilva-MIT.txt` when distributing source or derived exports. The model repository contains no separate LICENSE or copyright notice. |
+| Architecture reference | tsilva, `modeling.py` in the same model repository and revision | Same repository model-card MIT declaration | Permitted under the declared MIT license | [Pinned architecture reference](https://huggingface.co/tsilva/fashionmnist-classifier-cnn/blob/8b068e4063f2b03ea91651b0fa5877550616d6ae/modeling.py). The harness implements the corresponding fixed inference graph locally, loads only ONNX tensors, and uses neither the upstream Python loader nor its pickle checkpoint. |
+| Quantization toolkit | Sony Semiconductor Solutions, Model Compression Toolkit 2.6.0 | Apache-2.0 | Permitted under Apache-2.0 | [MCT license](https://github.com/SonySemiconductorSolutions/mct-model-optimization/blob/v2.6.0/LICENSE.md). Preserve the license and applicable notices when redistributing the toolkit. |
+
+## Scope and provenance
+
+The data and weights listed above are the only benchmark materials. Python dependencies are installed separately using pinned requirements and retain their own upstream licenses. This table is an inventory of the selected data/model licenses, not a claim that package dependencies have been relicensed.
+
+The model card identifies Fashion-MNIST as the training dataset, describes the normalization `(pixel / 255 - 0.2860) / 0.3530`, and states that the export came from a checkpoint chosen by validation loss. Its reported test score is publisher-reported, not a measured benchmark result from this harness. The harness measures its own accuracy from the official test split; representative calibration data comes only from the official training split.
+
+The download cache contains public data and the original ONNX. Dataset binaries are not bundled in this repository. The measured example includes a FP32 re-export and PTQ ONNX derivatives, with these notices; the FP32 re-export may be byte-identical to the original public ONNX. If you redistribute a cache, model export, or derivative, include the corresponding notices above. The model's MIT declaration is explicit publisher metadata; a separate model-specific LICENSE file was not present, and no missing copyright attribution has been invented.

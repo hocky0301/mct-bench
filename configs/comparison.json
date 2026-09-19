@@ -1,0 +1,8 @@
+{
+  "variants": [
+    {"name": "w8a8", "weights_bits": 8},
+    {"name": "w4a8", "weights_bits": 4},
+    {"name": "w4a8-no-bias-correction", "weights_bits": 4, "bias_correction": false},
+    {"name": "w4a8-no-clipping", "weights_bits": 4, "error_method": "no_clipping"}
+  ]
+}

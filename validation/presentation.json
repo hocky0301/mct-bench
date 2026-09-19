@@ -1,0 +1,800 @@
+{
+  "verified_at_utc": "2026-09-15T00:34:13.374726+00:00",
+  "presentation_sha256": "001390ad9ac4630afbbbb9a4cae721678ad3c9adc6caa690c7c6a8ca99fbf730",
+  "browser": "Chromium via Playwright 1.62.1",
+  "viewport_checks": [
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "slide": 1,
+      "active": 1,
+      "caption": 115,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 692,
+      "deckHeight": 692
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "slide": 2,
+      "active": 1,
+      "caption": 127,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 692,
+      "deckHeight": 692
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "slide": 3,
+      "active": 1,
+      "caption": 127,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 692,
+      "deckHeight": 692
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "slide": 4,
+      "active": 1,
+      "caption": 127,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 692,
+      "deckHeight": 692
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "slide": 5,
+      "active": 1,
+      "caption": 123,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 692,
+      "deckHeight": 692
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "slide": 6,
+      "active": 1,
+      "caption": 127,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 692,
+      "deckHeight": 692
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "slide": 7,
+      "active": 1,
+      "caption": 126,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 692,
+      "deckHeight": 692
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "slide": 8,
+      "active": 1,
+      "caption": 126,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 692,
+      "deckHeight": 692
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "slide": 9,
+      "active": 1,
+      "caption": 130,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 692,
+      "deckHeight": 692
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "slide": 10,
+      "active": 1,
+      "caption": 126,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 692,
+      "deckHeight": 692
+    },
+    {
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "slide": 1,
+      "active": 1,
+      "caption": 115,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 556,
+      "deckHeight": 556
+    },
+    {
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "slide": 2,
+      "active": 1,
+      "caption": 127,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 556,
+      "deckHeight": 556
+    },
+    {
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "slide": 3,
+      "active": 1,
+      "caption": 127,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 556,
+      "deckHeight": 556
+    },
+    {
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "slide": 4,
+      "active": 1,
+      "caption": 127,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 556,
+      "deckHeight": 556
+    },
+    {
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "slide": 5,
+      "active": 1,
+      "caption": 123,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 556,
+      "deckHeight": 556
+    },
+    {
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "slide": 6,
+      "active": 1,
+      "caption": 127,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 556,
+      "deckHeight": 556
+    },
+    {
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "slide": 7,
+      "active": 1,
+      "caption": 126,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 556,
+      "deckHeight": 556
+    },
+    {
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "slide": 8,
+      "active": 1,
+      "caption": 126,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 556,
+      "deckHeight": 556
+    },
+    {
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "slide": 9,
+      "active": 1,
+      "caption": 130,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 556,
+      "deckHeight": 556
+    },
+    {
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "slide": 10,
+      "active": 1,
+      "caption": 126,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 556,
+      "deckHeight": 556
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "slide": 1,
+      "active": 1,
+      "caption": 115,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 604,
+      "deckHeight": 604
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "slide": 2,
+      "active": 1,
+      "caption": 127,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 604,
+      "deckHeight": 604
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "slide": 3,
+      "active": 1,
+      "caption": 127,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 604,
+      "deckHeight": 604
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "slide": 4,
+      "active": 1,
+      "caption": 127,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 604,
+      "deckHeight": 604
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "slide": 5,
+      "active": 1,
+      "caption": 123,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 604,
+      "deckHeight": 604
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "slide": 6,
+      "active": 1,
+      "caption": 127,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 604,
+      "deckHeight": 604
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "slide": 7,
+      "active": 1,
+      "caption": 126,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 604,
+      "deckHeight": 604
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "slide": 8,
+      "active": 1,
+      "caption": 126,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 604,
+      "deckHeight": 604
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "slide": 9,
+      "active": 1,
+      "caption": 130,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 604,
+      "deckHeight": 604
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "slide": 10,
+      "active": 1,
+      "caption": 126,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 604,
+      "deckHeight": 604
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "slide": 1,
+      "active": 1,
+      "caption": 115,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 536.359375,
+      "deckHeight": 536.359375
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "slide": 2,
+      "active": 1,
+      "caption": 127,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 586.53125,
+      "deckHeight": 586.53125
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "slide": 3,
+      "active": 1,
+      "caption": 127,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 558.046875,
+      "deckHeight": 558.046875
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "slide": 4,
+      "active": 1,
+      "caption": 127,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 598.3125,
+      "deckHeight": 598.3125
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "slide": 5,
+      "active": 1,
+      "caption": 123,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 609.109375,
+      "deckHeight": 609.109375
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "slide": 6,
+      "active": 1,
+      "caption": 127,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 544.703125,
+      "deckHeight": 544.703125
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "slide": 7,
+      "active": 1,
+      "caption": 126,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 581.46875,
+      "deckHeight": 581.46875
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "slide": 8,
+      "active": 1,
+      "caption": 126,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 606.09375,
+      "deckHeight": 606.09375
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "slide": 9,
+      "active": 1,
+      "caption": 130,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 580.953125,
+      "deckHeight": 580.953125
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "slide": 10,
+      "active": 1,
+      "caption": 126,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 596.046875,
+      "deckHeight": 596.046875
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "slide": 1,
+      "active": 1,
+      "caption": 115,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 523.015625,
+      "deckHeight": 523.015625
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "slide": 2,
+      "active": 1,
+      "caption": 127,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 637.328125,
+      "deckHeight": 637.328125
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "slide": 3,
+      "active": 1,
+      "caption": 127,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 542.453125,
+      "deckHeight": 542.453125
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "slide": 4,
+      "active": 1,
+      "caption": 127,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 672.328125,
+      "deckHeight": 672.328125
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "slide": 5,
+      "active": 1,
+      "caption": 123,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 614.921875,
+      "deckHeight": 614.921875
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "slide": 6,
+      "active": 1,
+      "caption": 127,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 565.3125,
+      "deckHeight": 565.3125
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "slide": 7,
+      "active": 1,
+      "caption": 126,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 608.90625,
+      "deckHeight": 608.90625
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "slide": 8,
+      "active": 1,
+      "caption": 126,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 654.5,
+      "deckHeight": 654.5
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "slide": 9,
+      "active": 1,
+      "caption": 130,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 549.671875,
+      "deckHeight": 549.671875
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "slide": 10,
+      "active": 1,
+      "caption": 126,
+      "overflowX": false,
+      "slideOverflows": false,
+      "captionOverflow": false,
+      "slideHeight": 608.71875,
+      "deckHeight": 608.71875
+    }
+  ],
+  "javascript_errors": [],
+  "navigation": "buttons, Home, TOC, dialogs passed",
+  "speech": {
+    "native": {
+      "voice": "Eddy (Japanese (Japan))",
+      "started": 2,
+      "completedSentences": 1,
+      "stopButton": true,
+      "audibleListeningReview": false
+    },
+    "mock": {
+      "focusedButtonArrowNavigation": true,
+      "currentSlideOnly": true,
+      "tourAutoAdvance": true,
+      "navigationCancelsTour": true,
+      "lastSlideStops": true
+    },
+    "noJapaneseVoiceFallback": true,
+    "reducedMotion": true
+  },
+  "print": {
+    "pages": 10,
+    "all_page_footers_present": true
+  },
+  "article_preview": [
+    {
+      "width": 1280,
+      "overflow": false,
+      "headings": 8,
+      "tables": 5
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "headings": 8,
+      "tables": 5
+    }
+  ],
+  "local_links_exist": 3,
+  "short_desktop_window_checks": [
+    {
+      "page": "01 / 10",
+      "horizontalOverflow": false,
+      "contentOverflow": false
+    },
+    {
+      "page": "02 / 10",
+      "horizontalOverflow": false,
+      "contentOverflow": false
+    },
+    {
+      "page": "03 / 10",
+      "horizontalOverflow": false,
+      "contentOverflow": false
+    },
+    {
+      "page": "04 / 10",
+      "horizontalOverflow": false,
+      "contentOverflow": false
+    },
+    {
+      "page": "05 / 10",
+      "horizontalOverflow": false,
+      "contentOverflow": false
+    },
+    {
+      "page": "06 / 10",
+      "horizontalOverflow": false,
+      "contentOverflow": false
+    },
+    {
+      "page": "07 / 10",
+      "horizontalOverflow": false,
+      "contentOverflow": false
+    },
+    {
+      "page": "08 / 10",
+      "horizontalOverflow": false,
+      "contentOverflow": false
+    },
+    {
+      "page": "09 / 10",
+      "horizontalOverflow": false,
+      "contentOverflow": false
+    },
+    {
+      "page": "10 / 10",
+      "horizontalOverflow": false,
+      "contentOverflow": false
+    }
+  ],
+  "visual_review": "All 10 desktop slides; mobile layout sampled. No benchmark rerun in this documentation update.",
+  "benchmark_code_commit": "v0.1.0"
+}
